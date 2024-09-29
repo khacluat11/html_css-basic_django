@@ -9,7 +9,7 @@
 	- Trên CV có hiển thị ảnh cá nhân.
 	- Thiết kế 2 hoặc 3 trang web chứa CV, mỗi trang có chứa các thông tin như nhau, chỉ có cách hiển thị khác nhau.
 
-## Trong thư mục html_css-basic_django:
+## Trong thư mục html_css-django_basic:
 
 Sử dụng bài làm phần front-end trong thư mục html_css(to-do-list và CV-profile) để viết phần backend sử dụng Django.
 
